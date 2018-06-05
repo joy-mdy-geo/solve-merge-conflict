@@ -1,4 +1,4 @@
 Hello World
 Nice to meet you
 Let's try to solve merge conflict
-Local line
+merge local and another line
